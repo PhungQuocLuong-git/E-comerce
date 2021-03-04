@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/e-comerce/static/css/main.bc8685c7.chunk.css",
+    "main.js": "/e-comerce/static/js/main.978660bc.chunk.js",
+    "main.js.map": "/e-comerce/static/js/main.978660bc.chunk.js.map",
+    "runtime-main.js": "/e-comerce/static/js/runtime-main.47b50365.js",
+    "runtime-main.js.map": "/e-comerce/static/js/runtime-main.47b50365.js.map",
+    "static/js/2.d8ecd95e.chunk.js": "/e-comerce/static/js/2.d8ecd95e.chunk.js",
+    "static/js/2.d8ecd95e.chunk.js.map": "/e-comerce/static/js/2.d8ecd95e.chunk.js.map",
+    "index.html": "/e-comerce/index.html",
+    "static/css/main.bc8685c7.chunk.css.map": "/e-comerce/static/css/main.bc8685c7.chunk.css.map",
+    "static/js/2.d8ecd95e.chunk.js.LICENSE.txt": "/e-comerce/static/js/2.d8ecd95e.chunk.js.LICENSE.txt",
+    "static/media/crown.svg.3a4e2b15.svg": "/e-comerce/static/media/crown.svg.3a4e2b15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47b50365.js",
+    "static/js/2.d8ecd95e.chunk.js",
+    "static/css/main.bc8685c7.chunk.css",
+    "static/js/main.978660bc.chunk.js"
+  ]
+}
